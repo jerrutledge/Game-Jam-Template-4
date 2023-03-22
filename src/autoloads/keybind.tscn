@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://dukp6ho8elhpf"]
+[gd_scene load_steps=3 format=3]
 
-[ext_resource type="Script" path="res://scenes/autoloads/keybind.gd" id="1_aufir"]
-[ext_resource type="PackedScene" uid="uid://ctrpo0doxvdk6" path="res://scenes/autoloads/keybind_action.tscn" id="2_afryj"]
+[ext_resource type="Script" path="res://src/autoloads/keybind.gd" id="1_aufir"]
+[ext_resource type="PackedScene" uid="uid://ctrpo0doxvdk6" path="res://src/autoloads/keybind_action.tscn" id="2_afryj"]
 
 [node name="Keybind" type="VBoxContainer" groups=["keybinds"]]
 offset_right = 40.0

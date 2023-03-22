@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://co67r3c0q1llm"]
+[gd_scene load_steps=3 format=3]
 
 [ext_resource type="Texture2D" uid="uid://bdu8j442phoep" path="res://icon.svg" id="1_nbc0r"]
-[ext_resource type="Script" path="res://scenes/autoloads/dialogue.gd" id="1_pav7p"]
+[ext_resource type="Script" path="res://src/autoloads/dialogue.gd" id="1_pav7p"]
 
 [node name="Dialogue" type="Window"]
 process_mode = 3

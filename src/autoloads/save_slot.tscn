@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://nfqyxnke21fw"]
+[gd_scene load_steps=2 format=3]
 
-[ext_resource type="Script" path="res://scenes/autoloads/save_slot.gd" id="1_i81hd"]
+[ext_resource type="Script" path="res://src/autoloads/save_slot.gd" id="1_i81hd"]
 
 [node name="SaveSlot" type="MenuButton"]
 offset_right = 8.0

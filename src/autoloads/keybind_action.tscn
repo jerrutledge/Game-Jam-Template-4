@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://ctrpo0doxvdk6"]
+[gd_scene load_steps=2 format=3]
 
-[ext_resource type="Script" path="res://scenes/autoloads/keybind_action.gd" id="1_hb1uc"]
+[ext_resource type="Script" path="res://src/autoloads/keybind_action.gd" id="1_hb1uc"]
 
 [node name="KeybindAction" type="HBoxContainer"]
 offset_right = 40.0

@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://dudbuild5w74v"]
+[gd_scene load_steps=3 format=3]
 
-[ext_resource type="Script" path="res://scenes/autoloads/save_load.gd" id="1_8qtvo"]
-[ext_resource type="PackedScene" uid="uid://nfqyxnke21fw" path="res://scenes/autoloads/save_slot.tscn" id="2_t68an"]
+[ext_resource type="Script" path="res://src/autoloads/save_load.gd" id="1_8qtvo"]
+[ext_resource type="PackedScene" uid="uid://nfqyxnke21fw" path="res://src/autoloads/save_slot.tscn" id="2_t68an"]
 
 [node name="SaveLoad" type="PopupPanel"]
 process_mode = 3
